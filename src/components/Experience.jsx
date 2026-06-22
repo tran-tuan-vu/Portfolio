@@ -194,7 +194,7 @@ function Experience() {
             {/* Link CV */}
             <div style={{ marginTop: '24px', paddingLeft: '16px' }}>
                 <a
-                    href="/public/CV_Tran_Tuam_Vu.pdf"
+                    href="/public/CV_Tran_Tuan_Vu.pdf"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{
